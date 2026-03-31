@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# 👋 Hi, I'm Anurag
+# 👋 Hi, I'm Anurag
 
 🎯 Aspiring Cybersecurity Professional (Offensive + Defensive)
 💻 Building skills in penetration testing, SOC analysis, and system security
